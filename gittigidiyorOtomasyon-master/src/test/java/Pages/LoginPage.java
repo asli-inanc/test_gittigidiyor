@@ -12,8 +12,8 @@ import org.junit.Test;
 public class LoginPage extends BasePage implements LoginPageContants {
 
     private final Logger LOGGER = LogManager.getLogger(LoginPage.class);
-    String email="asli.026@hotmail.com";
-    String password="a4s3l2i1.";
+    String email="******@hotmail.com";
+    String password="*****";
 
 
 
